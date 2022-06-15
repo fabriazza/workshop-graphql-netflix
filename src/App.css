@@ -70,9 +70,9 @@ video {
   margin-bottom: 30px;
 }
 
-video::-webkit-media-controls {
+/* video::-webkit-media-controls {
   display: none;
-}
+} */
 
 .movie-section:focus-within .card,
 .movie-section:focus, .card {
